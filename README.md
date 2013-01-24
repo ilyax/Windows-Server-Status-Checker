@@ -8,3 +8,5 @@ Desktop
 ![ScreenShot](http://hackafortanfoni.com/wp-content/uploads/2013/01/desktopchecker.jpg)
 
 or Web client
+
+![ScreenShot](http://hackafortanfoni.com/wp-content/uploads/2013/01/webchecker.jpg)
